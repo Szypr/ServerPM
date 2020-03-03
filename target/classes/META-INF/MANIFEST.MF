@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ProjectManager
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: szypr
+Implementation-Vendor-Id: szypr.com.github
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ProjectManager
+Created-By: Maven Integration for Eclipse
+
